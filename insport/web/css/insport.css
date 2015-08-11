@@ -1,0 +1,15 @@
+.loginError {
+	color: red;
+}
+h1 {
+	margin: 10px;
+	text-align:center;
+	color: #06d995;
+}
+label {
+	display: inline;
+}
+.drop-down {
+	margin-bottom: 1em;
+	width: 100%;
+}
